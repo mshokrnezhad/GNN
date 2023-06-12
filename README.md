@@ -1,2 +1,4 @@
 # GNN
-A Graph Neural Network (GNN) to Solve the Source Localization Problem
+A Graph Neural Network (GNN) to solve the source localization problem.
+
+Details will be added soon.
